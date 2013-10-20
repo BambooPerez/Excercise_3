@@ -1,7 +1,7 @@
 <?php
 // DB connection info
-$host = "tcp:ijauvkaa8e.database.windows.net,1433";
-$user = "bambooCVIL@ijauvkaa8e";
+$host = "tcp:uxqkosnmzg.database.windows.net,1433";
+$user = "bambooCVIL@uxqkosnmzg";
 $pwd = "Simatic123!";
 $db = "registration";
 try{
